@@ -1,4 +1,4 @@
-
+https://github.com/rcardher/Aprendiendo-a-ser-un-buen-ingeniero-Roberto-Cardenas.git
 Una breve introducción a algoritmos, estructuras de datos 
 Para comenzar a abordar los diferentes temas referidos a algoritmos y estructuras de datos y aprovechar las potencialidades que el lenguaje de programación presenta para su implementación es imprescindible establecer las bases conceptuales mínimas, necesarias para comprender el resto de los capítulos de esta asignatura.
 
